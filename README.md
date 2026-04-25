@@ -37,8 +37,10 @@
 
 ---
 
-### ⚡ Fun Fact
-> I enjoy turning ideas into interactive and user-friendly designs 🚀
+### ⚡ Fun Facts
+> ✨ Quite shy at first, but I communicate well once I get comfortable  
+> 🎬 I love watching movies — especially Marvel, horror, and romcoms  
+> 🚀 I enjoy turning ideas into interactive and user-friendly designs  
 
 ---
 
