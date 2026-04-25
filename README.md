@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Carl Joseph P. Nacario</h1>
-<h3 align="center">A 3rd Year BS Computer Science student | Aspiring UI/UX & Frontend Developer</h3>
+<h3 align="center">A 3rd Year BS Computer Science Student - Bicol University | Aspiring UI/UX & Frontend Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=UI/UX+Designer;Frontend+Developer;React+%7C+.NET+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
