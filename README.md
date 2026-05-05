@@ -32,7 +32,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,aws,c,css,dotnet,figma,html,java,linux,mysql,nodejs,postgres,python,react" />
+  <img src="https://skillicons.dev/icons?i=arduino,aws,c,css,dotnet,figma,html,java,linux,mysql,nodejs,python,react" />
 </p>
 
 ---
@@ -43,9 +43,3 @@
 - 🎬 I love watching movies — especially Marvel, horror, and romcoms  
 - 💪 I love to workout, hiking, and camping  
 - 🚀 I enjoy turning ideas into interactive and user-friendly designs
-  
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cj-nacario09&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
