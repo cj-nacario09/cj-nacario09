@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **[HazelNet-Web](https://github.com/Zanpakuto/Hazelnet_Web)** as UI/UX Designer
-- 🌱 I’m currently learning **UI/UX, .NET, and React**
+- 🌱 I’m currently learning **UI/UX and React**
 - 📫 Reach me at: **cjpn2023-2574-55548@bicol-u.edu.ph**
 
 ---
