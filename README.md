@@ -32,7 +32,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,aws,c,css,dotnet,figma,html,java,linux,mysql,nodejs,python,react" />
+  <img src="https://skillicons.dev/icons?i=arduino,c,css,figma,html,java,linux,python" />
 </p>
 
 ---
